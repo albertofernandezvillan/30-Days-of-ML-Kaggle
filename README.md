@@ -1,22 +1,17 @@
 # 30-Days-of-ML-Kaggle 🔥
 
 ## About the Hands On Program 💻
-Machine learning beginner → Kaggle competitor in 30 days. Non-coders welcome
+Machine learning beginner → Kaggle competitor in 30 days. 
 
-The program starts Monday, August 2, and lasts four weeks. It's designed for people who: ✏️	
-* Have not coded in Python much (or at all!) 
-*	Want to make the most of Kaggle, but aren't sure how.
+## Further resources/kernels/links...
 
-<img src="https://github.com/rojaAchary/30-Days-of-ML-Kaggle/blob/main/misc/30_Days_ML_Hero.png" width="800">
-
-## Program Highlights ✏
-
-* 2 weeks of daily, hands-on assignments (with emails to keep you on track)
-* Course completion certificates
-* Learning community chat room access
-* Elective workshops by Google's Developer Expert Data Science Program
-* Invitation to a beginner-friendly, invite-only Kaggle competition
-* Competition prizes (Kaggle Swag for top 10 teams on leaderboard)
+* Python course: https://www.kaggle.com/learn/python
+* Intro to ML course: https://www.kaggle.com/learn/intro-to-machine-learning
+* Intermediate ML course: https://www.kaggle.com/learn/intermediate-machine-learning
+* 30 Days of ML competition: https://www.kaggle.com/c/30-days-of-ml
+* Getting Started with 30 Days of ML Competition: https://www.kaggle.com/alexisbcook/getting-started-with-30-days-of-ml-competition
+* competition part-1: baseline notebook: https://www.kaggle.com/abhishek/competition-part-1-baseline
+* blending blending blending notebook: https://www.kaggle.com/abhishek/blending-blending-blending
 
 ## 📌 Table of Content
 
@@ -42,20 +37,4 @@ The program starts Monday, August 2, and lasts four weeks. It's designed for peo
 |18|18 Day Kaggle Competition|[Day_18_link](https://github.com/rojaAchary/30-Days-of-ML-Kaggle/tree/main/18-Day-Kaggle-Competition-Automobile)|
 |19|19 Day Kaggle Competition|[Day_19_link](https://github.com/rojaAchary/30-Days-of-ML-Kaggle/tree/main/19-Day-Kaggle-Competition)|
 |20|20 Day Kaggle Competition|[Day_20_link](https://github.com/rojaAchary/30-Days-of-ML-Kaggle/tree/main/20-Day-Kaggle-Competition)|
-
-Update in progress... 
-
-## Want to Stay Updated about the Program!!
-Fork 🍴 the repository 
- 
-## Learned Something  !!
-Give a 🌟 to support me 😊 
- 
-```bibtex
-@misc{Charged Neuron,
-    author       = {Roja Achary},
-    title        = {30-Days-Of-ML-Kaggle},
-    month        = {August},
-    year         = {2021}
-}
 ```
